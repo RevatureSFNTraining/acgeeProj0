@@ -1,15 +1,36 @@
 # acgeeProj0
-Title of Project0:  A website for Learn-a-Way
+Title of Project0:  The Botolan Sambal Dictionary Project
 
 Project Description:
-This website provides learning support for college students, graduating high school students, and lifelong learners, managed through a church.
-All services are free.
-Volunteers and clients have access to the website. 
+This website updates and further develops an existing dictionary database of Sambal words with glosses in English and Tagalaog. Botolan Sambal is a minority language in the Philippines where Tagalog and English are official languages. Tagalog is the national language.
 
-Files included so far:
-* Rough draft of wireframe for the website.
+The purpose of the dictionary project is twofold:
+  1. to update an existing dictionary and correct errors
+  2. to use the changing dictionary for computer-assisted translation also on the web for a future project.
 
+A word entry at the most basic level consists of the following:
+  1. word
+  2. IPA phonetic transcription
+  3. recording of the pronunciation
+  4. gloss in English
+  5. gloss in Tagalog
+  6. part of speech
+  7. root word
+  8. definition in English
+  9. definition in Tagalog
+  10. example sentence
+  11. translated sentence in English
+  12. translated sentence in Tagalog
+  13. photo or illustration (optional)
+  14. source (name of contributor)
+  
+Users with login accounts can edit entries.  Volunteer users need approval of the administrator but will be allowed to edit through restricted guest accounts.
 
-Last update:  December 8, 2021  1:42 pm PT
-![wireframe](https://user-images.githubusercontent.com/24981649/145290613-28325775-7062-4e21-846e-000ee15ac629.PNG)
+The tools on the website are:
+  1. Sambal word search that displays the current entries by page
+  2. Reverse word search from English that returns all Sambal dictionary entries with the English gloss
+  3. Reverse word search from Tagalog that returns all Sambal dictionary entries with the English gloss
+  4. Form to edit entries
+  5. Form to volunteer as a contributor
+
 
