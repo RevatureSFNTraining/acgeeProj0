@@ -33,4 +33,8 @@ The tools on the website are:
   4. Form to edit entries
   5. Form to volunteer as a contributor
 
+Wireframe of the home page:
+![wireframe Sambal Proj0](https://user-images.githubusercontent.com/24981649/145899918-9e4c5c3f-c834-45e0-9add-f3449bfbaef0.PNG)
+
+
 
